@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Alfian Vito Anggoro 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=alfianvitoanggoromit&label=Profile%20Views&color=blue&style=flat)
 
-**alfianvitoanggoromit/alfianvitoanggoromit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me**
+---
+💻 I'm a passionate **Golang Developer** who loves building scalable and efficient applications.  
+🛠️ Working on **MIT** and exploring new technologies.  
+🎯 Always learning and improving!
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+---
+🔹 **Languages:** Go
+🔹 **Frameworks:** Echo
+🔹 **Databases:** PostgreSQL, Redis  
+🔹 **Tools:** Docker, Git, VS Code, Linux (Ubuntu WSL)  
 
-- 🔭 I’m currently working on MIT
-- 🌱 I’m currently learning on everything
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📊 GitHub Stats
+---
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfianvitoanggoromit&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfianvitoanggoromit&layout=compact&theme=radical)
 
+## 🌎 Connect with Me
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alfianvitoanggoro/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/alfianvitoanggoro/)
+
+---
+💡 *“Code. Learn. Improve. Repeat.”* 🚀
