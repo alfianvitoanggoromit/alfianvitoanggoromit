@@ -17,8 +17,8 @@
 
 ## 📊 GitHub Stats
 ---
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfianvitoanggoromit&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfianvitoanggoromit&layout=compact&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfianvitoanggoromit&show_icons=true&theme=onedark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfianvitoanggoromit&layout=compact&theme=onedark)
 
 ## 🌎 Connect with Me
 ---
