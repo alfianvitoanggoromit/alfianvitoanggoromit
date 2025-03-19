@@ -18,8 +18,8 @@
 ## 📊 GitHub Stats
 ---
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfianvitoanggoromit&show_icons=true&theme=onedark)   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfianvitoanggoromit&layout=compact&theme=onedark)   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alfianvitoanggoromit&theme=onedark)   
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfianvitoanggoromit&layout=compact&theme=radical)   
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alfianvitoanggoromit&theme=radical)   
 ![Profile Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfianvitoanggoromit&theme=onedark)   
 ![Repo Metrics](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfianvitoanggoromit&theme=onedark) 
 ![Pull Requests](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alfianvitoanggoromit&theme=onedark)   
